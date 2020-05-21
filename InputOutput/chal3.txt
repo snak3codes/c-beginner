@@ -1,0 +1,4 @@
+The content of this file 
+will be displayed in 
+reverse order.
+racecar! YAHOO! Nike! 
