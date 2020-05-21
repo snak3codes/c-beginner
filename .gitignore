@@ -1,0 +1,7 @@
+*
+!/**/
+!*.*
+*.dSYM
+*.out
+*.vscode
+*.DS_Store
