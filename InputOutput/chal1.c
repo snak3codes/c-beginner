@@ -26,5 +26,8 @@ int main()
 
     printf("Number of lines: %d", linesCount);
 
+    fclose(fp);
+    fp = NULL;
+
     return 0;
 } // end of main

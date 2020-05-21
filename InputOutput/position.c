@@ -56,6 +56,7 @@ int main()
     fsetpos(fp, &position);
     fputs("This is going to override previous content", fp);
     fclose(fp);
+    fp = NULL;
 
     return 0;
 } // end of main
